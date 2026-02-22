@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Services", "Sales.Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Data", "Sales.Data\Sales.Data.csproj", "{8247D696-D6F2-4A96-BC60-BDA120851807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Models", "..\Sales.Models\Sales.Models.csproj", "{8BAFEB2C-BCBE-449A-948B-20CAEB8A93A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Models", "Sales.Models\Sales.Models.csproj", "{8BAFEB2C-BCBE-449A-948B-20CAEB8A93A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

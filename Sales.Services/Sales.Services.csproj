@@ -57,13 +57,13 @@
     <Compile Include="SaleService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Sales.Models\Sales.Models.csproj">
-      <Project>{8bafeb2c-bcbe-449a-948b-20caeb8a93a7}</Project>
-      <Name>Sales.Models</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Sales.Data\Sales.Data.csproj">
       <Project>{8247d696-d6f2-4a96-bc60-bda120851807}</Project>
       <Name>Sales.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sales.Models\Sales.Models.csproj">
+      <Project>{8bafeb2c-bcbe-449a-948b-20caeb8a93a7}</Project>
+      <Name>Sales.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

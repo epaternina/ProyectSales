@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
